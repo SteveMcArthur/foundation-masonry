@@ -1,4 +1,4 @@
-Foundation-Masonry
+Foundation Masonry
 ==================
 
 Implemention of Zurb Foundation and jQuery Masonry. Effectively a Pinterest style layout.
