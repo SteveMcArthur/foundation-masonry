@@ -10,3 +10,5 @@ More about the masonary javascript/jQuery layout can be found at  http://masonry
 For those unfamiliar with the Pinterest/masonry layout, it is a lot like a card layout. However, it also will reorganise itself either due to the browser being resized or the user filtering the card display. At the moment there is no filtering system in this implementation, although it will rearrange itself due to browser resizing.
 
 I'm really happy for feedback and contributions. This started as a template project and I'm happy if anyone else finds it of use.
+
+Project page is at: http://stevemcarthur.github.io/foundation-masonry/
