@@ -12,3 +12,5 @@ For those unfamiliar with the Pinterest/masonry layout, it is a lot like a card 
 I'm really happy for feedback and contributions. This started as a template project and I'm happy if anyone else finds it of use.
 
 Project page is at: http://stevemcarthur.github.io/foundation-masonry/
+
+![Screen shot](https://raw.githubusercontent.com/SteveMcArthur/foundation-masonry/screenshots/img/masonry.jpg)
